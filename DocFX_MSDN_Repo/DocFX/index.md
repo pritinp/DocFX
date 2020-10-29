@@ -1,6 +1,6 @@
 # This is the **HOMEPAGE**.
 
-# This is the **PRITIN1**.
+# This is the **PRITIN2**.
 
 Refer to [Markdown](http://daringfireball.net/projects/markdown/) for how to write markdown files.
 ## Quick Start Notes:
